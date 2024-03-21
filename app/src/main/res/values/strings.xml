@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyPuzzle15</string>
+    <string name="play_now">Play Now</string>
+    <string name="puzzle_15">Puzzle 15</string>
+    <string name="statistics">Statistics</string>
+    <string name="share">Share</string>
+    <string name="moves">Moves</string>
+    <string name="_0">0</string>
+    <string name="time">Time</string>
+    <string name="_00_00">00:00</string>
+    <string name="best">Best</string>
+    <string name="home">Home</string>
+    <string name="next">Next</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="continueGame">Continue</string>
+    <string name="new_game">New Game</string>
+    <string name="settings">Settings</string>
+    <string name="info">Info</string>
+    <string name="on_music">on Music</string>
+    <string name="off_music">off Music</string>
+    <string name="exit">Exit</string>
+    <string name="puzzle_info">The 15 Puzzle is a classic sliding puzzle game that involves rearranging a set of numbered tiles within a square grid. The puzzle consists of a 4x4 grid, and each tile is numbered from 1 to 15, leaving one empty space. The goal is to rearrange the tiles by sliding them into the empty space, ultimately forming a numerical sequence from 1 to 15.</string>
+    <string name="restart">Restart</string>
+</resources>
